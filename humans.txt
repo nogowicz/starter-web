@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Bartek anan abc@gmail.com @bartekn
 
 # THANKS
 
